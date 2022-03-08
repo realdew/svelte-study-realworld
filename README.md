@@ -1,3 +1,12 @@
+# About
+
+아래의 예제를 공부하는 중입니다.
+
+Sveltkit - RealWorld example app (https://github.com/sveltejs/realworld)
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
