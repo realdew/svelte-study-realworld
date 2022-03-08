@@ -21,7 +21,7 @@
     "svelte": "^3.44.0"
   },
   "dependencies": {
-		"cookie": "^0.4.2"
-	},
+    "cookie": "^0.4.2"
+  },
   "type": "module"
 }
